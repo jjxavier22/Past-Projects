@@ -1,0 +1,1 @@
+In this project, we build a Naïve Bayes classifier and a SVM model for the productivity satisfaction of the given dataset, the productivity of garment employees.

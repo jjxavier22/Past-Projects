@@ -1,0 +1,2 @@
+In this project, we explore the car dataset and analyzing their fuel efficiency.
+Specifically, we do some exploratory analysis with visualizations, then we will build a model for Simple Linear Regression, a model for Polynomial Regression, and one model for Logistic Regression.

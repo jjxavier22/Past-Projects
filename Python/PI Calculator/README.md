@@ -1,0 +1,1 @@
+"sharp.py" is a program that calculates the value of π using Abraham Sharp's infinite sum. The program prints the resulting approximations to π for the first 5, 10, …, 50 terms.

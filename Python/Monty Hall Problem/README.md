@@ -1,0 +1,11 @@
+Adapted from Matt Bishops' Monty Hall Programming Problem.
+
+The Monty Hall problem is a very famous problem in probability. It’s based on an old TV show called “Let’s Make a Deal”. The stage of that show had 3 doors numbered “1”, “2”, and “3”. Behind one of the doors was a valuable prize (like a new car); the other two contained gag gifts (like a goat or a can of cat food). The host, Monty Hall (hence the name of the problem), would choose someone from the audience and ask them to pick a door. The contestant would choose one, say door “2”. Monty would then open one of the other doors that always had a gag gift behind it (say, door “1” for our example). He would then ask the contestant if he or she wanted to stay with door “2”, or change their selection to door “3”. The problem is to determine which action – keep or change – gives the contestant the greater probability of selecting the door with the real prize.
+
+Monty1 simulates playing one game. The basic approach is to generate a random number representing the door behind which the real prize sits, and another random number representing the door that the contestant initially selects. Monty opens the remaining door. Then, have the contestant switch doors (or not switch doors), and see if the contestant winds up with the door behind which the prize sits.
+
+Monty2 simulates a large number of games. Monty2.py asks the user for the number of games to be played. Then play one set of games for the contestant always changing the door and another set for the contestant never changing the door. Monty2 prints the resulting (decimal) fraction of times that the contestant wins, and the number of games won.
+
+Monty3 adds a graphical output to visualize the results. This is a common practice in science and engineering, because the eye helps you understand the results faster than studying columns of numbers. Monty3 draws a histogram, with the bars being the relative sizes of the numbers.
+
+Montyex considers the scenario in whichthe contestant decides whether to change doors at random, how does that affect the probability of him/her winning. Montyex displays the probability of winning when the contestant always, never, or randomly switches.

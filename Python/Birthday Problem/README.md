@@ -1,0 +1,3 @@
+Adapted from Matt Bishop's Birthday Problem
+
+The birthday problem asks how many people must be in a room so that the probability of two of them having the same birthday is 0.5. This problem has you explore it by simulation. Basically, this is achieved by creating a series of lists of random numbers of length n = 2, …, and looking for duplicates. This is done 5000 times for each length. For each length, the number of lists with at least 1 duplicate number is counted; then that number is divided by 5000. That is the (simulated) probability that a list of n generated numbers has at least one duplicate. As the random numbers you generate are between 1 and 365 (each one corresponding to a day of the year), this simulates the birthday problem.

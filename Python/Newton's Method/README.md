@@ -1,0 +1,1 @@
+newton.py approximates a value of x for which x3 + ax2 + bx + c = 0 using a technique called Newton’s method. This problem is adapted from the “Newton’s method for finding square roots”.  

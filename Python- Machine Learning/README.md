@@ -1,0 +1,1 @@
+This folder showcases Machine Learning Projects and Assignemnts completed for my ECS 171- Machine Learning course at UC Davis.
