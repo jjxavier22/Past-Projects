@@ -1,0 +1,3 @@
+[submodule "MERN"]
+	path = MERN
+	url = https://github.com/arjkahlon/PrivateSecureSocialNetwork.git
