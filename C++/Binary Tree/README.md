@@ -1,0 +1,3 @@
+A binary tree is a data structure that stores information in sorted order. The main component of a binary tree is a node. The node holds the data, and also two other nodes, called left and right. The data in the left node precedes that of the containing node, and the data in the right node follows that of the containing node. The left and right nodes in turn also can have left and right nodes, and so forth.
+
+This C++ application implements a binary tree to sort the words in a .txt file and traverse it.

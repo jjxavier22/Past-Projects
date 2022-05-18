@@ -1,0 +1,3 @@
+Mathew Butner's Rock Paper Scissors Programming Problem
+
+You will be implementing the game of rock, paper, scissors. In this game, players randomly select rock, paper, or scissors. Rock beats scissors, paper beats rock, and scissors beats paper. If both players choose the same they choose again until someone wins. For your version, you will have a human player play against the computer. In addition, when the game completes the player has the option to play another game.

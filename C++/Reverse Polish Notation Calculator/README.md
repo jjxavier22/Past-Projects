@@ -1,0 +1,1 @@
+The C++ program called rpn.cpp implements a reverse polish notation calculator. Specifying "-l" in the input will display a list of the input values in the following format: (operator operand1 operand2) where each operand is indented one level greater than its operator, and trailing parenthesis are at the equivalent level of indentation to its match.

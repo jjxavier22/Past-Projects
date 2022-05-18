@@ -1,0 +1,1 @@
+This C++ application implements Dijkstra's algorithm to find the optimal route on a grid passed in as .txt file from the fire station to the location of the incident.
